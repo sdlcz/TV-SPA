@@ -187,7 +187,7 @@ How does one go about using it?
 
 ## Project Status
 
-Project is: _in progress_
+Project is: _Completed_
 
 ## Room for Improvement
 
